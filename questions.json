@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "Hyper Text Marketing Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheet",
+      "Computer Style Sheet",
+      "Creative Style System",
+      "Control Style Sheet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<script>",
+      "<javascript>",
+      "<code>"
+    ],
+    "answer": 1
+  }
+]
