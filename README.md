@@ -26,3 +26,11 @@ The interface was styled to mimic a Netflix-inspired theme with a dark backgroun
 Through this task, I gained a deeper understanding of JavaScript fundamentals including DOM manipulation, event listeners, arrays, functions, and the importance of code modularity. I also became more comfortable writing clean and readable HTML/CSS and using external files for data. This project reinforced my problem-solving skills, especially in debugging click events and managing UI state during transitions between questions.
 
 In conclusion, Task 1 was a great introduction to dynamic front-end applications without the need for any libraries or frameworks. It served as a foundation for understanding user interaction logic and helped me improve both my technical and design skills. The final product is a responsive, visually engaging quiz app that showcases essential front-end capabilities.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b210ce47-a25a-4493-806d-25882aac3b8f)
+
+![Image](https://github.com/user-attachments/assets/5198d99c-f61b-4c54-bb21-b6a83bc66c5f)
+
+![Image](https://github.com/user-attachments/assets/dc4d961d-fe54-47d0-84de-9ab0a7c68cbe)
